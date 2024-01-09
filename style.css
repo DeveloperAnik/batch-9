@@ -1,0 +1,217 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#main-header{
+    background-image: url('images/Banner\ Image.png');
+    text-align: center;
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin-left: 15px;
+    
+}
+.header-container{
+    padding-top: 220px;
+    color: white;
+    font-size: 32px;
+}
+.header-container > p{
+    font-size: 72px;
+}
+#first-container{
+    text-align: center;
+    margin-top: 50px;
+    width: 1300px;
+    height: 733px;
+}
+.first-contain > h2{
+color: red;
+font-size: 88px;
+font-weight: 700px;
+}
+.first-contain > p{
+    color: red;
+    font-size: 22px;
+    font-weight: 500px;
+    font-style: normal;
+    margin-top: 15px;
+}
+.first-contain > h4{
+    font-size: 41px;
+    font-weight: 700px;
+
+}
+.first-contain > img{
+    margin-top: 10px;
+}
+
+#welcome-party{
+    background-image: url(images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.party
+{
+    margin-left: 800px;
+}
+.midnight
+{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.midnight > h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 900px;
+    font-style: normal;
+}
+.midnight > p{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400px;
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+.party{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Address{
+  margin-top: 100px;
+  width: 1320px ;
+  height: 482px;
+  background-color: antiquewhite;
+  margin-left: 15px;
+
+}
+.Tikana{
+    text-align: center;
+    padding-top: 175px;
+}
+.Tikana > h4{
+    padding: 25px;
+}
+.place
+{
+    color: red;
+}
+.btn{
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+#best-offer{
+    margin-top: 100px;
+    margin-left: 15px;
+    background-color: #FFF;
+    width: 1300px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.first-section{
+    width: 37%;
+    height: 600px;
+}
+.first-section > h6{
+    color: red;
+    font-size: 24px;
+}
+.first-section > h2{
+color: #070211;
+font-size: 45px;
+font-weight: 900px;
+margin-bottom: 5px;
+}
+.first-contain > p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400px;
+}
+.second-section{
+    width: 37%;
+}
+.third-section h2{
+    color: red;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700px;
+}
+.third-section > p{
+    color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-style: normal;
+font-weight: 400px;
+margin-bottom: 20px;
+}
+
+#functional{
+    width: 1320px;
+    height: 735px;
+    margin-left: 15px;
+}
+.Holidays > h6{
+ text-align: center;
+ color: #070211;
+ font-size: 20px;
+ font-weight: 500px;
+}
+.col{
+    color: red;
+    
+}
+.Holidays > h2{
+    font-size: 42px;
+    font-weight: 900px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.Holidays > p{
+    font-size: 15px;
+    font-weight: 500px;
+    margin-left: 0px;
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
+.picture{
+    margin-left: 90px;
+}
+.lal{
+    margin-left: 15px;
+    margin-bottom: 100px;
+}
+
+#gifts{
+    width: 1320px;
+    height: 600px;
+    margin-left: 15px;
+}
+.best-gifts >h6{
+    color: red;
+    font-size: 20px;
+    font-weight: 500px;
+}
+.best-gifts >h2{
+   color: #070211;
+   font-size: 45px;
+   font-weight: 900px;
+   font-style: normal; 
+   margin-bottom: 5px;
+}
+.best-gifts > p{
+    margin-bottom: 50px;
+}
+.pic{
+    width: 1320px;
+    height: 900px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
